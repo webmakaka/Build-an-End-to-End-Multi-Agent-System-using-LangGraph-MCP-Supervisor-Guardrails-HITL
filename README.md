@@ -1,4 +1,11 @@
-# Multi-Agent-System-using-LangGraph-MCP-Supervisor-Guardrails-HITL
+# [YouTube] Multi-Agent-System-using-LangGraph-MCP-Supervisor-Guardrails-HITL [ENG, 2026]
+
+https://www.youtube.com/watch?v=BM39OouLNsM
+
+**Original src:**  
+https://github.com/entbappy/Multi-Agent-System-using-LangGraph-MCP-Supervisor-Guardrails-HITL
+
+<br/>
 
 A demo multi-agent system that uses LangGraph and MCP to implement a travel-planning assistant with a Supervisor, input Guardrails, and Human-In-The-Loop (HITL) approval flows. The project includes a FastAPI frontend, example MCP server, and client helpers to demonstrate how agents, supervisors, and guardrails can be composed into a safe, reviewable planning pipeline.
 
