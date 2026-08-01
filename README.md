@@ -1,4 +1,4 @@
-# [YouTube] Multi-Agent-System-using-LangGraph-MCP-Supervisor-Guardrails-HITL [ENG, 2026]
+# [YouTube] Build an End-to-End Multi-Agent AI System with LangGraph, MCP, Supervisor, Guardrails Safety & HITL [ENG, 2026]
 
 https://www.youtube.com/watch?v=BM39OouLNsM
 
