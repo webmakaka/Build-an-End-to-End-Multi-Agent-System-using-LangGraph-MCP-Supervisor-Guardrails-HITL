@@ -2,8 +2,21 @@
 
 https://www.youtube.com/watch?v=BM39OouLNsM
 
-**Original src:**  
-https://github.com/entbappy/Multi-Agent-System-using-LangGraph-MCP-Supervisor-Guardrails-HITL
+<br/>
+
+```
+⌚Timestamp for this video: 
+
+00:00:00 - Part 1: Multi-Agent-System Simple 
+01:46:06 - Part 2: Multi-Agent-System with MCP 
+03:57:23 - Part 3 (Final Part): Multi-Agent-System with MCP, Supervisor, Guardrails Safety & HITL
+```
+
+<br/>
+
+💻 Source Code Repo 1: https://github.com/entbappy/TripMate-AI-A-Multi-Agent-Travel-Planner-with-LangGraph
+💻 Source Code Repo 2: https://github.com/entbappy/TripMate-AI-Using-MCP
+💻 Source Code Repo Final: https://github.com/entbappy/Multi-Agent-System-using-LangGraph-MCP-Supervisor-Guardrails-HITL
 
 <br/>
 
