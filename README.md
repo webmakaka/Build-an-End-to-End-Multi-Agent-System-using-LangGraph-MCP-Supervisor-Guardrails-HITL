@@ -14,11 +14,17 @@ https://www.youtube.com/watch?v=BM39OouLNsM
 
 <br/>
 
-💻 Source Code Repo 1: https://github.com/entbappy/TripMate-AI-A-Multi-Agent-Travel-Planner-with-LangGraph
-💻 Source Code Repo 2: https://github.com/entbappy/TripMate-AI-Using-MCP
-💻 Source Code Repo Final: https://github.com/entbappy/Multi-Agent-System-using-LangGraph-MCP-Supervisor-Guardrails-HITL
+💻 Source Code Repo 1: https://github.com/entbappy/TripMate-AI-A-Multi-Agent-Travel-Planner-with-LangGraph  
+💻 Source Code Repo 2: https://github.com/entbappy/TripMate-AI-Using-MCP  
+💻 Source Code Repo Final: https://github.com/entbappy/Multi-Agent-System-using-LangGraph-MCP-Supervisor-Guardrails-HITL  
 
 <br/>
+
+```
+https://render.com
+http://console.qroq.com/
+https://aviationstack.com/
+```
 
 A demo multi-agent system that uses LangGraph and MCP to implement a travel-planning assistant with a Supervisor, input Guardrails, and Human-In-The-Loop (HITL) approval flows. The project includes a FastAPI frontend, example MCP server, and client helpers to demonstrate how agents, supervisors, and guardrails can be composed into a safe, reviewable planning pipeline.
 
