@@ -1,4 +1,4 @@
-# [YouTube] Build an End-to-End Multi-Agent AI System with LangGraph, MCP, Supervisor, Guardrails Safety & HITL [ENG, 2026]
+# [YouTube] [Bappy Ahmed] Build an End-to-End Multi-Agent AI System with LangGraph, MCP, Supervisor, Guardrails Safety & HITL [ENG, 2026]
 
 <img src="./img/cover.png" alt="Build an End-to-End Multi-Agent AI System with LangGraph, MCP, Supervisor, Guardrails Safety & HITL" height="256px" align="right">
 
