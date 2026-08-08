@@ -124,3 +124,12 @@ Acknowledgements
 
 Contact
 - For questions or suggestions, open an issue or contact the repository owner.
+
+
+<br/><br/>
+
+---
+
+<br/>
+
+<a href="https://agenticdev.ru/">Предложить инженеру работу / подработку на проекте с kubernetes, microservices, golang, machine learning, big data, LLM, agents</a>
